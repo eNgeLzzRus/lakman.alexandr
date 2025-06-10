@@ -9,3 +9,9 @@ th {
     color: navy;
     border: 1px solid #ccc;
 }
+
+td {
+    padding: 8px;
+    border: 1px solid #ddd;
+    background-color: #fffacd;
+}
